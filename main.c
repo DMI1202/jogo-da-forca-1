@@ -9,7 +9,7 @@ void copyright(){
     system("clear");
     printf("=============================================================\n\n");
     printf("JOGO DA FORCA\n");
-    printf("Desenvolvido por: \n\tAntonio Orlandini 18122\n\t");
+    printf("Baseado em: \n\tAntonio Orlandini 18122\n\t");
     printf("\tXXXXX - NNNNNNNNNNNNNNNNNNN\n");
     printf("=============================================================\n\n");
 }
